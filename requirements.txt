@@ -1,6 +1,8 @@
-﻿blinker==1.9.0
+asgiref==3.8.1
+blinker==1.9.0
 click==8.1.8
 colorama==0.4.6
+Django==3.2.25
 dotenv==0.9.9
 Flask==2.2.5
 Flask-SQLAlchemy==2.5.1
@@ -11,6 +13,8 @@ MarkupSafe==3.0.2
 psycopg2==2.9.10
 psycopg2-binary==2.9.10
 python-dotenv==1.1.0
+pytz==2025.2
 SQLAlchemy==1.4.46
+sqlparse==0.5.3
 typing_extensions==4.13.2
 Werkzeug==3.1.3
